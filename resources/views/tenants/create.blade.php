@@ -45,7 +45,7 @@
 
                                 <div class="form-group row">
                                     <label for="domain" class="col-md-4 col-form-label text-md-right">
-                                        {{ __('domain') }}
+                                        {{ __('Domain') }}
                                     </label>
                                     <div class="col-md-6">
                                         <input id="domain" type="domain" class="form-control @error('domain') is-invalid @enderror" name="domain" value="{{ old('domain') }}" required autocomplete="domain" autofocus>

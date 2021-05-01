@@ -59,17 +59,6 @@ class TenantController extends Controller
     }
 
     /**
-     * Display the specified resource.
-     *
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
-     */
-    public function show($id)
-    {
-        //
-    }
-
-    /**
      * Show the form for editing the specified resource.
      * 
      * @param  User $tenant
@@ -107,6 +96,13 @@ class TenantController extends Controller
         return redirect()->route('tenants.index');
     }
 
+
+    /**
+     * Authenticate User.
+     *
+     * @param  User $user
+     * @return \Illuminate\Http\Response
+     */
     public function invitation(User $user)
     {
         if(!request()->hasValidSignature() || $user->password != '0123456789')
