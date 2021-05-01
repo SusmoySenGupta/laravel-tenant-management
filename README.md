@@ -17,10 +17,10 @@ Tenant management is a web application that can manage tenants.
 ### Here are some screenshots:
 
 1. Index page after logging in.
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/SusmoySenGupta/readme-contents/blob/main/tenant-management-images/index-example.PNG" width="900"></a></p>
+<p align="center"><img src="https://github.com/SusmoySenGupta/readme-contents/blob/main/tenant-management-images/index-example.PNG" width="900"></p>
 2. Email invitation.
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/SusmoySenGupta/readme-contents/blob/main/tenant-management-images/mail-example.PNG" width="900"></a></p>
+<p align="center"><img src="https://github.com/SusmoySenGupta/readme-contents/blob/main/tenant-management-images/mail-example.PNG" width="900"></p>
 3. Set password page
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/SusmoySenGupta/readme-contents/blob/main/tenant-management-images/SetPassword-example.PNG" width="900"></a></p>
+<p align="center"><img src="https://github.com/SusmoySenGupta/readme-contents/blob/main/tenant-management-images/SetPassword-example.PNG" width="900"></p>
 4. Logged in after setting password
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/SusmoySenGupta/readme-contents/blob/main/tenant-management-images/SetPasswordSuccesful-example.PNG" width="900"></a></p>
+<p align="center"><img src="https://github.com/SusmoySenGupta/readme-contents/blob/main/tenant-management-images/SetPasswordSuccesful-example.PNG" width="900"></p>
