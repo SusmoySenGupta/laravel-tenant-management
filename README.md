@@ -10,7 +10,7 @@ Tenant management is a web application that can manage tenants.
 - After setting the password, the tenant will automatically be logged in.
 
 ### Website link
-`Link:` <a href="http://susmoycse.com/laravel/tenant-management/home" target="_blank">Tenant management</a>  
+`Link:` <a href="http://susmoycse.com/laravel/tenant-management/tenants" target="_blank">Tenant management</a>  
 `Email: admin@admin.com`  
 `password: 0123456789`
 
